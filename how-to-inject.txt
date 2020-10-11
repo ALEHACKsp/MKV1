@@ -1,0 +1,1 @@
+Basically goto discord_dispatch and replace the contents of index.js with everything in client.js. Have fun lmao with infecting your victims.
